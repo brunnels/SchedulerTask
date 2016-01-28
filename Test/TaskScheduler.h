@@ -4,7 +4,6 @@
 #include "Arduino.h"
 #include "Tasks.h"
 
-
 class TaskScheduler
 {
     public:

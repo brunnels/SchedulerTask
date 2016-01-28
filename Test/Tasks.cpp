@@ -1,7 +1,6 @@
 #include "Arduino.h"
 #include "Tasks.h"
 
-
 Tasks::Tasks(void){
   sleepForEventType=NONE;
   deactivate();
